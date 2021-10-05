@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IGSparkew
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently learning Java EE
-- 💞️ I’m looking to collaborate on Big Projetc
+- 💞️ I’m looking to collaborate on Big Project
 - 📫 How to reach me, you can't im a ghost 
 
 <!---
